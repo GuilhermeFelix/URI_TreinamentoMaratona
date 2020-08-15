@@ -7,8 +7,8 @@ __________
 
 
 
-LESSON1 (SEMANA 1)
-:-------------------------------------------------------------------------|--------------------------------:
+LESSON1 (SEMANA 1)                                                        |    *****************
+:---------------------------------------------------------------------------------------------------------:
 [ ] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) | Extremamente Básico 
 [ ] [1004](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004) | Produto Simples
 [ ] [1006](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006) | Média 2 	
@@ -16,7 +16,7 @@ LESSON1 (SEMANA 1)
 [ ] [1019](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019) | Conversão de Tempo 
 
 
-LESSON2 (SEMANA 2)
+LESSON2 (SEMANA 2)                                                        |    *****************
 :-------------------------------------------------------------------------|--------------------------------:
 [ ] [1036](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036) |Fórmula de Bhaskara
 [ ] [1046](https://www.urionlinejudge.com.br/judge/pt/problems/view/1046) | Tempo de Jogo
@@ -26,7 +26,7 @@ LESSON2 (SEMANA 2)
 [ ] [1065](https://www.urionlinejudge.com.br/judge/pt/problems/view/1065) |Pares entre Cinco Números 
 
 
-LESSON3 (SEMANA 3)
+LESSON3 (SEMANA 3)                                                        |    *****************
 :-------------------------------------------------------------------------|--------------------------------:
 [ ] [1067](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067) |Números Ímpares
 [ ] [1080](https://www.urionlinejudge.com.br/judge/pt/problems/view/1080) |Maior e Posição
@@ -35,7 +35,7 @@ LESSON3 (SEMANA 3)
 [ ] [2417](https://www.urionlinejudge.com.br/judge/pt/problems/view/2417) |Campeonato 
 
 
-LESSON4 (SEMANA 4)
+LESSON4 (SEMANA 4)                                                        |    *****************
 :-------------------------------------------------------------------------|--------------------------------:
 [ ] [1114](https://www.urionlinejudge.com.br/judge/pt/problems/view/1114) |Senha Fixa
 [ ] [1153](https://www.urionlinejudge.com.br/judge/pt/problems/view/1153) |Fatorial Simples
