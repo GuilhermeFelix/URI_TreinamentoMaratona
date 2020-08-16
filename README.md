@@ -8,7 +8,7 @@ __________
 
 LESSON1 (SEMANA 1)                                                        | *   
 :-------------------------------------------------------------------------|-------------------------------
-[ ] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) | Extremamente Básico 
+[X] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) | Extremamente Básico 
 [ ] [1004](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004) | Produto Simples
 [ ] [1006](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006) | Média 2 	
 [ ] [1017](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017) | Gasto de Combustível 
