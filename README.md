@@ -6,13 +6,13 @@ Resolução dos exercicios do URI para treinamento dos alunos que competirão na
 __________
 
 
-LESSON1 (SEMANA 1)                                                        | *   
-:-------------------------------------------------------------------------|-------------------------------
-[X] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) | Extremamente Básico 
-[ ] [1004](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004) | Produto Simples
-[ ] [1006](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006) | Média 2 	
-[ ] [1017](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017) | Gasto de Combustível 
-[ ] [1019](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019) | Conversão de Tempo 
+LESSON1 (SEMANA 1)                                                        | IDENTIFICAÇÃO                 | * |
+:-------------------------------------------------------------------------|-------------------------------|-----------| 
+[X] [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) | Extremamente Básico           | [resolução](https://github.com/GuilhermeFelix/URI_TreinamentoMaratona/blob/master/LESSON1/1001.py)  |
+[X] [1004](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004) | Produto Simples               | [resolução](https://github.com/GuilhermeFelix/URI_TreinamentoMaratona/blob/master/LESSON1/1004.py)  |
+[X] [1006](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006) | Média 2 	                  | [resolução](https://github.com/GuilhermeFelix/URI_TreinamentoMaratona/blob/master/LESSON1/1006.py)  |
+[X] [1017](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017) | Gasto de Combustível          | [resolução](https://github.com/GuilhermeFelix/URI_TreinamentoMaratona/blob/master/LESSON1/1017.py)  |
+[X] [1019](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019) | Conversão de Tempo            | [resolução](https://github.com/GuilhermeFelix/URI_TreinamentoMaratona/blob/master/LESSON1/1019.py)  |
 
 
 LESSON2 (SEMANA 2)                                                        | *
